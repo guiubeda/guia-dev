@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia Dev - Dicionário de Tecnologia</title>
+
+    <!-- SEO & Social Media -->
+    <meta name="description" content="Um dicionário de 'tecniquês' para desmistificar termos comuns no mundo do desenvolvimento de software.">
+    <meta name="author" content="Guilherme Ubeda">
+    <meta property="og:title" content="Guia Dev - Dicionário de Tecnologia">
+    <meta property="og:description" content="Um dicionário de 'tecniquês' para desmistificar termos comuns no mundo do desenvolvimento de software.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/guiubeda/guia-dev/main/assets/guia-dev-og-image.png">
+    <meta property="og:url" content="https://guiubeda.github.io/guia-dev/">
+    <meta property="og:type" content="website">
+
+    <link rel="stylesheet" href="style.css"> 
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23202124'/%3E%3Cpath d='M40 70 L20 50 L40 30' stroke='%238ab4f8' stroke-width='8' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M60 70 L80 50 L60 30' stroke='%238ab4f8' stroke-width='8' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+    <header>
+        <a href="" id="logo-link">
+            <h1><span class="material-symbols-outlined">code</span> Guia <span>Dev</span></h1>
+        </a>
+        <div class="search-box">
+            <input type="text" id="caixa-busca" list="sugestoes-busca" placeholder="Qual termo 'tecniquês' você quer traduzir? (ex: bug, deploy)" aria-label="Caixa de busca de termos"> 
+            <datalist id="sugestoes-busca"></datalist> 
+            <button id="botao-busca">Pesquisar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <p class="mensagem-padrao">Digite um termo acima para começar a busca...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por <b>Guilherme Ubeda</b> durante a <b>Imersão Dev com Google Gemini 10ª Edição</b></p>
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/guiubeda" target="_blank" rel="noopener noreferrer">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/guiubeda/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            </li>
+            <li>
+                <a href="mailto:guiubeda2@gmail.com">E-mail</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

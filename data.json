@@ -1,0 +1,178 @@
+[
+  {
+    "titulo": "Alurar",
+    "gramatica": "verbo transformador / verbo de ação",
+    "descricao": "O ato de mergulhar de cabeça no aprendizado de tecnologia e sair com uma perspectiva totalmente nova. Ocorre quando o desenvolvedo percebe que o código funciona e o universo se expande. Sinônimo de não ter mais medo de frameworks.",
+    "link": "https://www.alura.com.br/",
+    "tags": ["aprender", "tecnologia", "conhecimento", "mudança", "mentalidade"],
+    "link_titulo": "Site Oficial da Alura: Sua evolução em tecnologia"
+  },
+  {
+    "titulo": "API",
+    "gramatica": "sigla (Application Programming Interface)",
+    "descricao": "Imagine um garçom: você (cliente) pede algo, o garçom anota, leva para a cozinha (servidor) e traz o prato pronto. A API é esse garçom digital que conecta sistemas.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-api",
+    "tags": ["back-end", "conexão", "dados", "integração", "servidor"],
+    "link_titulo": "Artigo da Alura: O que é API?"
+  },
+  {
+    "titulo": "Back-end",
+    "gramatica": "substantivo dos bastidores",
+    "descricao": "A mágica que acontece 'por trás das cortinas'. É onde ficam os dados, as regras de negócio e onde a lógica pesada é processada longe dos olhos do usuário.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end",
+    "tags": ["servidor", "banco de dados", "lógica", "api", "back-end"],
+    "link_titulo": "Artigo da Alura: O que é Front-end e Back-end?"
+  },
+  {
+    "titulo": "Bug",
+    "gramatica": "substantivo invasor",
+    "descricao": "Erro no código que faz o programa agir de forma inesperada. Diferente do que se pensa, 90% dos bugs ficam localizados entre a cadeira e o teclado.",
+    "link": "https://pt.wikipedia.org/wiki/Bug",
+    "tags": ["erro", "falha", "problema", "código"],
+    "link_titulo": "Wikipedia: História e Definição de Bug de Software"
+  },
+  {
+    "titulo": "Café",
+    "gramatica": "combustível líquido",
+    "descricao": "Substância essencial que converte ansiedade em linhas de código funcionais. Atinge 90% da potência em 3 commits após o consumo.",
+    "link": "https://pt.wikipedia.org/wiki/Café",
+    "tags": ["bebida", "energia", "programador", "sono"],
+    "link_titulo": "Wikipedia: Sobre a História e Cultura do Café"
+  },
+  {
+    "titulo": "Clean Code",
+    "gramatica": "princípio de desenvolvimento",
+    "descricao": "Um código bem escrito, fácil de ler e entender. Segue padrões e convenções, permitindo que outros desenvolvedores (ou você mesmo no futuro) possam dar manutenção sem sofrimento.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-clean-code",
+    "tags": ["princípio", "código", "manutenção", "qualidade", "melhoria"],
+    "link_titulo": "Artigo da Alura sobre Clean Code"
+  },
+  {
+    "titulo": "CSS",
+    "gramatica": "sigla (Cascading Style Sheets)",
+    "descricao": "Linguagem responsável pela beleza do site. É a arte de tentar centralizar uma div e acabar quebrando o layout do site inteiro.",
+    "link": "https://www.alura.com.br/artigos/guia-de-unidades-no-css",
+    "tags": ["estilo", "design", "cor", "layout", "front-end"],
+    "link_titulo": "Artigo da Alura: Guia de Unidades e Conceitos Básicos de CSS"
+  },
+  {
+    "titulo": "Deploy",
+    "gramatica": "substantivo masculino / verbo do perigo",
+    "descricao": "Ato de enviar o código para produção (para o ar). É o momento em que o programador prende a respiração e reza para que nada quebre. Se funcionar, é glória; se falhar, é sexta-feira à noite trabalhando.",
+    "link": "https://www.alura.com.br/artigos/o-processo-de-deploy-continuo",
+    "tags": ["produção", "online", "devops"],
+    "link_titulo": "Artigo da Alura: O processo de Deploy Contínuo"
+  },
+  {
+    "titulo": "DOM",
+    "gramatica": "sigla (Document Object Model)",
+    "descricao": "A árvore genealógica do seu site. É como o navegador organiza todos os elementos HTML (o pai body, o filho div, o neto p) para que o JavaScript consiga mexer neles.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-dom",
+    "tags": ["javascript", "html", "estrutura", "arvore", "front-end"],
+    "link_titulo": "Artigo da Alura: Entendendo o DOM (Document Object Model)"
+  },
+  {
+    "titulo": "Framework",
+    "gramatica": "caixa de ferramentas",
+    "descricao": "Um conjunto de códigos prontos que te impede de reinventar a roda. Em vez de criar um site do zero absoluto, você usa um framework para já começar com a base pronta.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-um-framework",
+    "tags": ["ferramenta", "biblioteca", "agilidade", "código"],
+    "link_titulo": "Artigo da Alura: O que é um Framework?"
+  },
+  {
+    "titulo": "Front-end",
+    "gramatica": "substantivo da vitrine",
+    "descricao": "Tudo aquilo que o usuário vê e interage na tela. Se é bonito, colorido e tem botões, é culpa do Front-end (e do designer que desenhou).",
+    "link": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end",
+    "tags": ["visual", "interface", "tela", "css", "html", "front-end"],
+    "link_titulo": "Artigo da Alura: O que é Front-end e Back-end?"
+  },
+  {
+    "titulo": "Fullstack",
+    "gramatica": "adjetivo / ser mitológico",
+    "descricao": "Desenvolvedor que sofre em dobro: cuida tanto da parte visual (Frontend) quanto da lógica do servidor (Backend). O famoso 'faz-tudo' da tecnologia.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-fullstack",
+    "tags": ["front-end", "back-end", "completo", "carreira", "desenvolvimento"],
+    "link_titulo": "Artigo da Alura: O que é e o que faz um Desenvolvedor Fullstack?"
+  },
+  {
+    "titulo": "Gambiarra",
+    "gramatica": "solução técnica provisória definitiva",
+    "descricao": "Solução criativa e pouco elegante para resolver um problema complexo. Geralmente acompanhada da frase: 'Depois eu arrumo o código direito' (spoiler: nunca arruma).",
+    "link": "https://pt.wikipedia.org/wiki/Gambiarra",
+    "tags": ["solução", "improviso", "fix", "rápido", "código sujo"],
+    "link_titulo": "Wikipedia: Definição e Uso do Termo Gambiarra"
+  },
+  {
+    "titulo": "GitHub",
+    "gramatica": "plataforma de colaboração",
+    "descricao": "O lar da maior parte do código aberto do mundo. É a plataforma baseada em Git que permite hospedar, revisar, colaborar e gerenciar projetos de software em equipe.",
+    "link": "https://github.com/",
+    "tags": ["versionamento", "git", "colaboração", "nuvem", "repositório"],
+    "link_titulo": "Site Oficial do GitHub"
+  },
+  {
+    "titulo": "Hello World",
+    "gramatica": "interjeição sagrada",
+    "descricao": "A primeira frase que todo programador escreve ao aprender uma nova linguagem. Diz a lenda que se você não fizer isso, nunca aprenderá a linguagem de verdade.",
+    "link": "https://pt.wikipedia.org/wiki/Hello_World",
+    "tags": ["início", "aprender", "primeira linha", "código"],
+    "link_titulo": "Wikipedia: Origem e Tradição do Hello World"
+  },
+  {
+    "titulo": "HTML",
+    "gramatica": "sigla (HyperText Markup Language)",
+    "descricao": "Não é linguagem de programação! É a linguagem de marcação que define o esqueleto da página. Sem ele, a web seria apenas um grande vazio.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-html",
+    "tags": ["estrutura", "web", "tags", "marcação", "front-end"],
+    "link_titulo": "Artigo da Alura: O que é HTML?"
+  },
+  {
+    "titulo": "Imersão",
+    "gramatica": "substantivo feminino / evento transformador",
+    "descricao": "Um período intensivo e focado de aprendizado (como o Imersão Dev com Alura e Google), capaz de mudar sua vida em 1 semana, transformando curiosidade em código funcional.",
+    "link": "https://www.alura.com.br/imersao-dev-google-gemini",
+    "tags": ["evento", "curso", "aprender", "desenvolvimento", "projeto"],
+    "link_titulo": "Página da Imersão Dev com Alura e Google Gemini"
+  },
+  {
+    "titulo": "JavaScript",
+    "gramatica": "linguagem de programação",
+    "descricao": "A linguagem padrão da web que permite criar interatividade no front-end. Essencial para construir qualquer aplicação moderna, de sites simples a games.",
+    "link": "https://www.alura.com.br/cursos-online-programacao/javascript",
+    "tags": ["front-end", "back-end", "web", "código", "linguagem"],
+    "link_titulo": "Cursos de JavaScript na Alura"
+  },
+  {
+    "titulo": "JSON",
+    "gramatica": "sigla (JavaScript Object Notation)",
+    "descricao": "O 'Esperanto' da web. É um formato de texto leve e organizado que quase todas as linguagens usam para trocar informações entre si.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-json",
+    "tags": ["dados", "formato", "arquivo", "api", "back-end"],
+    "link_titulo": "Artigo da Alura: O que é JSON?"
+  },
+  {
+    "titulo": "Node.js",
+    "gramatica": "ambiente de execução",
+    "descricao": "Permite que o JavaScript seja executado fora do navegador, geralmente no lado do servidor (backend). Isso unificou o desenvolvimento Fullstack na mesma linguagem.",
+    "link": "https://www.alura.com.br/cursos-online-programacao/nodejs",
+    "tags": ["back-end", "javascript", "servidor", "runtime", "fullstack"],
+    "link_titulo": "Cursos de Node.js na Alura"
+  },
+  {
+    "titulo": "Responsividade",
+    "gramatica": "qualidade essencial",
+    "descricao": "A capacidade de um site não ficar horrível quando você abre ele no celular. É fazer o layout se adaptar a qualquer tamanho de tela como mágica.",
+    "link": "https://www.alura.com.br/artigos/o-que-e-responsividade",
+    "tags": ["mobile", "celular", "layout", "css", "media query"],
+    "link_titulo": "Artigo da Alura: O que é Responsividade?"
+  },
+  {
+    "titulo": "Sintaxe",
+    "gramatica": "substantivo / regra",
+    "descricao": "As regras de gramática de uma linguagem de programação. Se você esquece um ponto e vírgula ou uma chave, o compilador (ou interpretador) reclama: 'Erro de sintaxe!'",
+    "link": "https://pt.wikipedia.org/wiki/Sintaxe_de_linguagem_de_programa%C3%A7%C3%A3o",
+    "tags": ["regra", "gramática", "código", "linguagem"],
+    "link_titulo": "Wikipedia: Sintaxe de linguagem de programação"
+  }
+]
